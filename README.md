@@ -1,1 +1,2 @@
-# rastrigin-GA
+# Rastrigin with GA
+GAs mimic natural evolution by generating a population of potential solutions, which evolve through selection, crossover, and mutation over generations. When applied to the Rastrigin function, GAs seek to find the global minimum by exploring a broad search space and using their stochastic nature to overcome the local minima problem.
